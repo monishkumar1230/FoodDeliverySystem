@@ -1,0 +1,13 @@
+
+Delivery History
+ Trip    Executive   Restaurant  Destination Point   Orders     Pickup Time   Delivery Time   Delivery Charge
+    1       DE1           A                B            1            1:45             2:0              50
+    2       DE2           A                B            1           13:45            14:0              50
+
+Total Earned
+ Executive   Allowance   Delivery Charges  Total
+    DE1          10            50           60
+    DE2          10            50           60
+    DE3           0             0            0
+    DE4           0             0            0
+    DE5           0             0            0
