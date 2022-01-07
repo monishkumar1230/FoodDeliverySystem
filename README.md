@@ -19,8 +19,15 @@
     
     Main.java - FoodDeliverySystem/FoodDeliverySystem/src/fooddeliverysystem/Main.java 
  
-## How to Excute the Project
-    -> Pull this project from the github
-    -> 
+## How to Execute the Project
+    -> Pull this project from the github(https://github.com/monishkumar1230/FoodDeliverySystem.git).
+    
+    -> Open the netbeans and file->open project-> locate the project file.
+    
+    -> click on run and choose the entry point file.
+                      
+                      or
+            
+    -> Use javac complier to compile the source files.       
     
   
